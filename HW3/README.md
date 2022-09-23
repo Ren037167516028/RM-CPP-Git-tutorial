@@ -4,9 +4,9 @@ Topics: recursion, scope, overloading
 
 ---
 
-Write a function to calculate the value of [Ackermann function](https://en.wikipedia.org/wiki/Ackermann_function). If only one integer $m$ is given, calculate `$ ark(m, 0) $`.
+Write a function to calculate the value of [Ackermann function](https://en.wikipedia.org/wiki/Ackermann_function). If only one integer $m$ is given, calculate $ ark(m, 0) $.
 
-`$$ ack(0, n) = n + 1 \\  ack(m+1, 0) = ack(m, 1) \\ ack(m+1, n+1) = ack(m, ack(m+1, n))$$`
+$$ ack(0, n) = n + 1 \\  ack(m+1, 0) = ack(m, 1) \\ ack(m+1, n+1) = ack(m, ack(m+1, n))$$
 
 ```cpp
 /**

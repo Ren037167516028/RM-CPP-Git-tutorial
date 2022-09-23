@@ -13,7 +13,7 @@ cout << str[10] << " " << 10[str] << endl;
 
 And the output will be
 
-```
+```text
 d d
 ```
 
