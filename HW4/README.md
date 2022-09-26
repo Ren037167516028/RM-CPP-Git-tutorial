@@ -2,6 +2,8 @@
 
 Make any necessary changes. You are given a example for receiving controller signals using [DR16](https://www.robomaster.com/en-US/products/components/detail/1837), the actual controller we use in the competition. You will use the data received and decode them to the actual control signals, which you will be using in your internal competition.
 
+You will focus on the file `/Core/Src/DR16.cpp` and `/Core/Inc/DR16.hpp`
+
 In this project, you will finish the skeleton code and compile it using [Makefile](https://www.gnu.org/software/make/manual/make.html). You will learn more about Makefile later.
 
 There is no correct answer (maybe). You are making decisions as long as they are logical and functional. If you think my code suck, you are more than welcome to write your own version.
