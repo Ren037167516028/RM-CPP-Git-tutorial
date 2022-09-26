@@ -2,10 +2,12 @@
 #include "cmsis_os2.h"
 #include "main.h"
 
+
 extern "C"
 {
     void startUserTask()
     {
-        // Drivers::DR16::init();
+        // init DR16
+        Drivers::DR16::init();
     }
 }
