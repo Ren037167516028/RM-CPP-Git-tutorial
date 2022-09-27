@@ -13,11 +13,13 @@ void DR16::decode(uint8_t *rxBuffer)
 
     /* your code end here */
 }
-static uint8_t dr16Buffer[18];
+static uint8_t dr16Buffer[18] = {0};
 DR16 dr16;
 
+static volatile int x = 0;
 static void dr16CompleteCallback(UART_HandleTypeDef *huart)
 {
+    x++;
     dr16.decode(dr16Buffer);
     HAL_UART_Receive_IT(&huart1, dr16Buffer, 18);
 }

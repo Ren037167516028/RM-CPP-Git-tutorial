@@ -2,7 +2,7 @@
 #include "cmsis_os2.h"
 #include "main.h"
 
-
+static volatile int x = 0;
 extern "C"
 {
     void startUserTask()

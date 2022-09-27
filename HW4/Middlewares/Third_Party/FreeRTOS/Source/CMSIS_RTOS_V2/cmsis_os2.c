@@ -204,6 +204,7 @@ osStatus_t osKernelStart (void) {
   else {
     if (KernelState == osKernelReady) {
       KernelState = osKernelRunning;
+      extern void startUserTask();
       startUserTask();
       vTaskStartScheduler();
       stat = osOK;
