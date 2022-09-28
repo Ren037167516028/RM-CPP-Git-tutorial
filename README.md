@@ -1,5 +1,5 @@
 # C/C++ and git assignments
-
+DDL: Oct. 10<sup>th</sup>
 ## Git Assignment
 
 1. Initialize your local git repository for your C++ tutorial HW using commend line.
