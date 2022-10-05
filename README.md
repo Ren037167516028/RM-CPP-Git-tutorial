@@ -6,10 +6,10 @@ Remember to set it to **PRIVATE**.
 
 1. Clone this Repo to your local.
 
-2. Create your personal **PRIVATE** Github remote Repo. Please name it as "RM-CPP-Assignment-YOURNAME"
+2. Create your personal **PRIVATE** Github remote Repo. Please name it as "RM-CPP-Assignment-YOURNAME". When you initialize the remote repo, please leave it empty**(DO NOT ADD README)**
 
 2. link your local repo(cloned in 1st step) with your personal **PRIVATE** Github remote Repo.(You may use command line)  
-> hint: `git remote add origin git@github.com:YOUR_GITHUB_NAME/GITREPO_NAME.git`
+> hint: `git remote set origin git@github.com:YOUR_GITHUB_NAME/GITREPO_NAME.git`
 
 3. Working on the HW at your local repo.
 
