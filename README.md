@@ -3,7 +3,7 @@ DDL: Oct. 10<sup>th</sup>
 Remember to set it to **PRIVATE**. 
 ## Git Assignment
 
-1. Initialize your local git repository for your C++ tutorial HW using commend line.
+1. Initialize your local git repository for your C++ tutorial HW using command line.
 
 2. link it with your personal **PRIVATE** Github remote Repo.(If you don't have one, then create one)
 
