@@ -1,17 +1,21 @@
 # C/C++ and git assignments
 DDL: Oct. 10<sup>th</sup>
 Remember to set it to **PRIVATE**. 
+> This doc is revised on 05/10.
 ## Git Assignment
 
-1. Initialize your local git repository for your C++ tutorial HW using command line.
+1. Clone this Repo to your local.
 
-2. link it with your personal **PRIVATE** Github remote Repo.(If you don't have one, then create one)
+2. Create your personal **PRIVATE** Github remote Repo. Please name it as "RM-CPP-Assignment-YOURNAME"
 
-3. Fork skeleton code from our Team repo. Use commend line to clone it to your local. Later on, you should write your code there.
+2. link your local repo(cloned in 1st step) with your personal **PRIVATE** Github remote Repo.(You may use command line)  
+> hint: `git remote add origin git@github.com:YOUR_GITHUB_NAME/GITREPO_NAME.git`
+
+3. Working on the HW at your local repo.
 
 4. After finish your HW, you need to commit them and push them to your github repo. 
 
-5. For HW 4, after you clone the skeleton code, you are now on master branch. You need to create a new branch named develop base on master.
+5. For HW 4, after you clone the skeleton code, you are now on master(or main) branch. You need to create a new branch named `develop` base on master.
 
    After that, you should work on develop branch. You need 2 or above commit before you finish your HW4. If you finish it, merge the develop branch to master branch.
 
