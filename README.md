@@ -17,7 +17,7 @@ Remember to set it to **PRIVATE**.
 
 5. For HW 4, after you clone the skeleton code, you are now on master(or main) branch. You need to create a new branch named `develop` base on master.
 
-   Alternative: After that, you should work on develop branch. You need 2 or above commit before you finish your HW4. If you finish it, merge the develop branch to master branch.
+> Alternative: After that, you should work on develop branch. You need 2 or above commit before you finish your HW4. If you finish it, merge the develop branch to master branch.
 
 ## Info
 - ITSC: 
