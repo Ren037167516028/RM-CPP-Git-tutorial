@@ -9,7 +9,7 @@ Remember to set it to **PRIVATE**.
 2. Create your personal **PRIVATE** Github remote Repo. Please name it as "RM-CPP-Assignment-YOURNAME". When you initialize the remote repo, please leave it empty**(DO NOT ADD README)**
 
 2. link your local repo(cloned in 1st step) with your personal **PRIVATE** Github remote Repo.(You may use command line)  
-> hint: `git remote set origin git@github.com:YOUR_GITHUB_NAME/GITREPO_NAME.git` You may find the SSH here.
+> hint: `git remote set-url origin git@github.com:YOUR_GITHUB_NAME/GITREPO_NAME.git` You may find the SSH here.
 ![image](https://user-images.githubusercontent.com/90089173/194091254-efd5d6f5-ec39-4915-9f44-5bc48af84b1f.png)
 
 
